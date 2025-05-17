@@ -1,0 +1,73 @@
+name: movie_app
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  
+  cupertino_icons: ^1.0.8
+  http: ^1.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+
+  flutter_lints: ^4.0.0
+
+
+flutter:
+
+  
+  uses-material-design: true
+
+ 
+
+  
+  
+# name: movie_app
+# description: A Flutter application implementing TMDB movie screens.
+# publish_to: 'none'
+# version: 1.0.0+1
+
+# environment:
+#   sdk: '>=3.0.0 <4.0.0'
+
+# dependencies:
+#   flutter:
+#     sdk: flutter
+#   cupertino_icons: ^1.0.5
+
+# dev_dependencies:
+#   flutter_test:
+#     sdk: flutter
+#   flutter_lints: ^2.0.2
+
+# flutter:
+#   uses-material-design: true
+  
+#   # Add assets for the app
+#   # assets:
+#   #   - assets/images/
+
+#   # Fonts
+#   fonts:
+#     - family: Roboto
+#       fonts:
+#         - asset: fonts/Roboto-Regular.ttf
+#         - asset: fonts/Roboto-Bold.ttf
+#           weight: 700
+#         - asset: fonts/Roboto-Light.ttf
+#           weight: 300
